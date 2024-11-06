@@ -1,0 +1,10 @@
+| Survey Question     | Response Option | Number of Responses | Percentage |
+|---------------------|-----------------|---------------------|------------|
+| Question 1          | Option 1       | 25                  | 25%        |
+|                     | Option 2       | 30                  | 30%        |
+|                     | Option 3       | 20                  | 20%        |
+|                     | Option 4       | 25                  | 25%        |
+| Question 2          | Option 1       | 40                  | 40%        |
+|                     | Option 2       | 35                  | 35%        |
+|                     | Option 3       | 15                  | 15%        |
+|                     | Option 4       | 10                  | 10%        |
